@@ -22,7 +22,7 @@ This model is specifically fine-tuned to analyze financial texts, making it high
 ---
 
 ## Datasets
-The project uses financial news datasets made available on Hugging Face by **NickyNicky**.  
+The project uses financial news datasets made available on Hugging Face by [NickyNicky](https://huggingface.co/NickyNicky).  
 Dataset link: [Financial News Dataset](https://huggingface.co/datasets/NickyNicky/finance-financialmodelingprep-stock-news-sentiments-rss-feed)
 
 ### Dataset Highlights:
