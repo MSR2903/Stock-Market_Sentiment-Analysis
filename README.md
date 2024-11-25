@@ -23,7 +23,7 @@ This model is specifically fine-tuned to analyze financial texts, making it high
 
 ## Datasets
 The project uses financial news datasets made available on Hugging Face by **NickyNicky**.  
-Dataset link: [Financial News Dataset](https://huggingface.co/mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis)
+Dataset link: [Financial News Dataset](https://huggingface.co/datasets/NickyNicky/finance-financialmodelingprep-stock-news-sentiments-rss-feed)
 
 ### Dataset Highlights:
 - Comprises financial news articles tagged with sentiment labels.
