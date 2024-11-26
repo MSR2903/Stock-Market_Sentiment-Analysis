@@ -1,4 +1,4 @@
-# Stock-Market Sentiment Analysis
+# Stock Market Sentiment Analysis
 
 ## Overview
 This project aims to analyze financial news articles and predict their sentiment using a pre-trained sentiment analysis model. The sentiment analysis focuses on financial news to help understand market trends and investor sentiment, which can be crucial for decision-making in stock trading and investments.
